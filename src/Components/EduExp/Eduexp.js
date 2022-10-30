@@ -10,6 +10,7 @@ function Eduexp() {
             <p>CSS</p>
             <p>Javascript</p>
             <p>React</p>
+            <p>React</p>
             <p>Python</p>
             <p>Photoshop</p>
       </div>
